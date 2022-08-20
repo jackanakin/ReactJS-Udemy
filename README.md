@@ -4,3 +4,4 @@
 01-BasicReact: React basics, working with components, JSX and Props<br/>
 02-State&Events: Working with useState, user input, Lifting the State Up<br/>
 03-ConditionalRendering: Rendering lists and conditional content<br/>
+04-ReactStyling: Styling with CSS classes dynamically, Styled Components and CSS Modules
