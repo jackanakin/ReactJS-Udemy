@@ -7,3 +7,4 @@
 04-ReactStyling: Styling with CSS classes dynamically, Styled Components and CSS Modules
 05-FragsPortalsRefs: Working with Fragments, Portals and Refs
 06-EffectsReducersContextApi: Handling side Effects (useEffect), useReducer, Context API and useImperativeHandle
+07-PracticeProject: demo project using learned skills 
