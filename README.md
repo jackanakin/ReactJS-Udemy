@@ -6,3 +6,4 @@
 03-ConditionalRendering: Rendering lists and conditional content<br/>
 04-ReactStyling: Styling with CSS classes dynamically, Styled Components and CSS Modules
 05-FragsPortalsRefs: Working with Fragments, Portals and Refs
+06-EffectsReducersContextApi: Handling side Effects (useEffect), useReducer, Context API and useImperativeHandle
