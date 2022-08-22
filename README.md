@@ -8,3 +8,4 @@
 05-FragsPortalsRefs: Working with Fragments, Portals and Refs
 06-EffectsReducersContextApi: Handling side Effects (useEffect), useReducer, Context API and useImperativeHandle
 07-PracticeProject: demo project using learned skills 
+08-OptimizationTechniques: useMemo(), useCallback() and performance optimizing
