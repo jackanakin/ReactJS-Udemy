@@ -10,3 +10,4 @@
 07-PracticeProject: demo project using learned skills <br/>
 08-OptimizationTechniques: useMemo(), useCallback() and performance optimizing<br/>
 09-ErrorBoundaries: catching thrown exceptions with componentDidCatch()<br/>
+10-HttpRequests: using fetch() api
