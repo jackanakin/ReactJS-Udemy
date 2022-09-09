@@ -11,4 +11,5 @@
 08-OptimizationTechniques: useMemo(), useCallback() and performance optimizing<br/>
 09-ErrorBoundaries: catching thrown exceptions with componentDidCatch()<br/>
 10-HttpRequests: using fetch() api
-11-CustomHooks: building custom hooks with use keyword
+11-CustomHooks: building custom hooks with use keyword and bind
+12-Forms: forms and input validation
