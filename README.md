@@ -15,3 +15,5 @@
 12-Forms: forms and input validation
 13-PracticeProject
 14-Redux: Redux, Redux-Toolkit and authentication app-wide state
+15-AdvancedRedux: aynsc. code with Redux
+16-ReactSPA: Routes, Links, Imperative Navigation, Redirect, Query Parameters and Prompt Component
