@@ -18,3 +18,4 @@
 15-AdvancedRedux: aynsc. code with Redux
 16-ReactSPA: Routes, Links, Imperative Navigation, Redirect, Query Parameters and Prompt Component
 17-Authentication: signin, signup, signout, tokens persistence
+18-NextJS: nextjs basics, SSR and SSG
